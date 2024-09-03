@@ -1,0 +1,7 @@
+J:\c\1\Trial_test_1\bin\Debug\Trial_test_1.exe.config
+J:\c\1\Trial_test_1\bin\Debug\Trial_test_1.exe
+J:\c\1\Trial_test_1\bin\Debug\Trial_test_1.pdb
+J:\c\1\Trial_test_1\obj\Debug\Trial_test_1.csproj.AssemblyReference.cache
+J:\c\1\Trial_test_1\obj\Debug\Trial_test_1.csproj.CoreCompileInputs.cache
+J:\c\1\Trial_test_1\obj\Debug\Trial_test_1.exe
+J:\c\1\Trial_test_1\obj\Debug\Trial_test_1.pdb
